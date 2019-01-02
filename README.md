@@ -5,6 +5,8 @@
 ## Goals
 
 - [x] Code daily
+- [ ] Work through freeCodeCamp
+- [ ] Learn VueJS
 
 # Log
 
