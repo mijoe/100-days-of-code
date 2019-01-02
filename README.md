@@ -22,15 +22,16 @@
 
 -->
 
-## 2. Set and Plan Goals
+## 2. First Goals and Progress
 ### Day 2: January 2, 2019 - Wednesday
 
-**Project:** 100DaysOfCode
+**Project:** freeCodeCamp
 
-**Progress:** Set Goals
+**Progress:** Define first goals
 
-- Work through freeCodeCamp as refresher and to learn new things
-- Signup to freeCodeCamp 
+- Work through freeCodeCamp as a quick refresher and to learn new things
+- Signup to freeCodeCamp
+- Start freeCodeCamp _Basic HTML and HTML5_ (Responsive Web Design Certification)
 
 **Links:**
 
