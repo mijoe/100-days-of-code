@@ -22,14 +22,19 @@
 
 -->
 
-## 3. Continue freeCodeCamp Basic HTML and HTML5
-### Day 3: January 3, 2019 - Wednesday
+## 4. Finish freeCodeCamp Introduction to Basic HTML and HTML5
+### Day 4: January 4, 2019 - Friday
 
 **Project:** freeCodeCamp
 
-**Progress:** Define first goals
+**Progress:** Finish Introduction to Basic HTML and HTML5
 
-- Continue freeCodeCamp Basic HTML and HTML5 (Responsive Web Design Certification)
+## 3. Continue freeCodeCamp Basic HTML and HTML5
+### Day 3: January 3, 2019 - Thursday
+
+**Project:** freeCodeCamp
+
+**Progress:** Continue freeCodeCamp Basic HTML and HTML5 (Responsive Web Design Certification)
 
 ## 2. First Goals and Progress
 ### Day 2: January 2, 2019 - Wednesday
