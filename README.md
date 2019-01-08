@@ -22,6 +22,17 @@
 
 -->
 
+## 5. Start freeCodeCamp Introduction to Basic CSS
+### Day 5: January 7, 2019 - Monday
+
+**Project:** freeCodeCamp
+
+**Progress:** Start Introduction to Basic CSS
+
+**Links:**
+
+- [freeCodeCamp Account](https://www.freecodecamp.org/mijoe)
+
 ## 4. Finish freeCodeCamp Introduction to Basic HTML and HTML5
 ### Day 4: January 4, 2019 - Friday
 
