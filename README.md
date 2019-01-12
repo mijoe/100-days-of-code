@@ -22,6 +22,20 @@
 
 -->
 
+## 6. Update Personal Profile
+### Day 6: January 11, 2019 - Friday
+
+**Project:** Personal Profile
+
+**Progress:**
+
+- Update GitHub Profile
+- Update XING Profile
+
+**Links:**
+
+- [My GitHub Profile](https://mijoe.github.io/)
+
 ## 5. Start freeCodeCamp Introduction to Basic CSS
 ### Day 5: January 7, 2019 - Monday
 
